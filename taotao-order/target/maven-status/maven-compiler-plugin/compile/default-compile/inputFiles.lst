@@ -1,0 +1,7 @@
+F:\Java\项目\淘淘商城\源代码\taotao-order\src\main\java\com\taotao\order\service\OrderService.java
+F:\Java\项目\淘淘商城\源代码\taotao-order\src\main\java\com\taotao\order\service\impl\OrderServiceImpl.java
+F:\Java\项目\淘淘商城\源代码\taotao-order\src\main\java\com\taotao\order\dao\JedisClient.java
+F:\Java\项目\淘淘商城\源代码\taotao-order\src\main\java\com\taotao\order\pojo\Order.java
+F:\Java\项目\淘淘商城\源代码\taotao-order\src\main\java\com\taotao\order\dao\impl\JedisClientSingle.java
+F:\Java\项目\淘淘商城\源代码\taotao-order\src\main\java\com\taotao\order\dao\impl\JedisClientCluster.java
+F:\Java\项目\淘淘商城\源代码\taotao-order\src\main\java\com\taotao\order\controller\OrderController.java
